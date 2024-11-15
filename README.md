@@ -1,1 +1,1 @@
-# Deploy-a-Chatbot-using-TensorFlow-in-Python
+The JEENIE project is an AI-powered chatbot for JEE preparation, using TensorFlow and Python to provide personalized support through adaptive learning, practice questions, and time management strategies. It features mock tests, step-by-step question explanations, and tailored feedback to strengthen students' skills and monitor progress effectively.
